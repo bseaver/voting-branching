@@ -1,2 +1,4 @@
-/* No additional styling at present!
-** Just using Bootstrap rows and columns */
+/* Display for both choices initially suppressed */
+#oldEnoughToVote, #notOldEnoughToVote {
+  display: none;
+}
