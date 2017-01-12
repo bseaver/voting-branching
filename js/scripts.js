@@ -1,0 +1,2 @@
+$(function() {
+}); // End JavaScript
